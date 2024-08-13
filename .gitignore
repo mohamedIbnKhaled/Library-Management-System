@@ -8,7 +8,7 @@
 *.log
 
 # Spring Boot specific files
-\src\main\resources\application.properties
+application.properties
 application.yml
 # Uncomment the following lines if you have environment-specific configuration files
 # application-dev.properties
@@ -77,4 +77,4 @@ lib/
 # Ignore IDE auto-generated files
 /.idea/
 /*.iml
-HELP
+HELP.md
