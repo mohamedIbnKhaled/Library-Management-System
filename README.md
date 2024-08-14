@@ -11,4 +11,4 @@ this project is a library Management System designed to manage books, patrons, a
 - **PostgreSQL**: For database management.
 - **Java**: The programming language used for development.
 ## ERD for the DataBase
-![ERD](Library-Management-System\ERD.png)
+![ERD](ERD.PNG)
